@@ -8,7 +8,7 @@ Same three engines as Boa:
 
 - **Policy net** — trained on the attacking players (the Tal / Polgar / Shirov lineage) instead of the grinders.
 - **All-seeing eye** — the same veto interface. Also not settled, and Viper may end up with a different engine here than Boa: sacrifices need an eval that respects initiative.
-- **Opponent model** — Maia-3. Boa uses it to squeeze; Viper leans on it harder — more of the move choice goes to "what will this human get wrong."
+- **Opponent model** — Maia-3, same job as in Boa: gauge how likely the human across the board is to blunder against each candidate (LTB). Boa uses it to squeeze; Viper leans on it harder — more of the move choice goes to "what will this human get wrong."
 
 ## Status
 
